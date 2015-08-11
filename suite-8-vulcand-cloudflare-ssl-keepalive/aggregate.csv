@@ -1,0 +1,14 @@
+label	keepalive	total_reqs	failed_reqs	conc	mean	p95	p98	rqs
+suite-8-vulcand-cloudflare-ssl-keepalive	1	600	0	20	9.087	10	129	2200.93
+suite-8-vulcand-cloudflare-ssl-keepalive	1	1200	0	40	18.772	19	269	2130.78
+suite-8-vulcand-cloudflare-ssl-keepalive	1	1800	0	60	29.961	29	387	2002.62
+suite-8-vulcand-cloudflare-ssl-keepalive	1	2400	0	80	41.834	42	538	1912.31
+suite-8-vulcand-cloudflare-ssl-keepalive	1	3000	0	100	53.980	52	685	1852.55
+suite-8-vulcand-cloudflare-ssl-keepalive	1	4500	0	150	89.457	85	1083	1676.79
+suite-8-vulcand-cloudflare-ssl-keepalive	1	6000	0	200	114.328	109	1383	1749.35
+suite-8-vulcand-cloudflare-ssl-keepalive	1	7500	0	250	148.328	146	1769	1685.45
+suite-8-vulcand-cloudflare-ssl-keepalive	1	9000	0	300	180.295	168	2164	1663.94
+suite-8-vulcand-cloudflare-ssl-keepalive	1	10500	0	350	217.152	209	2488	1611.78
+suite-8-vulcand-cloudflare-ssl-keepalive	1	12000	0	400	250.099	227	3057	1599.37
+suite-8-vulcand-cloudflare-ssl-keepalive	1	13500	0	450	289.666	275	3432	1553.51
+suite-8-vulcand-cloudflare-ssl-keepalive	1	15000	0	500	295.797	273	3662	1690.35

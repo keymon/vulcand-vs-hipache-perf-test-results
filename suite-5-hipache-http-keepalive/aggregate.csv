@@ -1,0 +1,12 @@
+label	keepalive	total_reqs	failed_reqs	conc	mean	p95	p98	rqs
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	0							
+suite-5-hipache-http-keepalive	1	6000	0	200	442.371	630	685	452.11
+suite-5-hipache-http-keepalive	1	9000	0	300	622.433	1106	1191	481.98
+suite-5-hipache-http-keepalive	1	12000	0	400	795.035	1486	1590	503.12
+suite-5-hipache-http-keepalive	1	15000	0	500	1043.951	1565	1799	478.95

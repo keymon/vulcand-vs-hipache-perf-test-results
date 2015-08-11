@@ -1,0 +1,5 @@
+[7l--epoch--- ----total-cpu-usage----
+  epoch   |usr sys idl wai hiq siq
+1439207439| 15   0  85   0   0   0
+1439207440|  5   0  95   0   0   0
+1439207441| 90   5   0   0   0   5

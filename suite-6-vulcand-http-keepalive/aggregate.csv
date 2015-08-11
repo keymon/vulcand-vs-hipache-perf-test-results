@@ -1,0 +1,12 @@
+label	keepalive	total_reqs	failed_reqs	conc	mean	p95	p98	rqs
+suite-6-vulcand-http-keepalive	0							
+suite-6-vulcand-http-keepalive	0							
+suite-6-vulcand-http-keepalive	0							
+suite-6-vulcand-http-keepalive	0							
+suite-6-vulcand-http-keepalive	0							
+suite-6-vulcand-http-keepalive	0							
+suite-6-vulcand-http-keepalive	1	6000	0	200	69.317	99	110	2885.31
+suite-6-vulcand-http-keepalive	1	9000	0	300	116.288	166	189	2579.80
+suite-6-vulcand-http-keepalive	1	12000	0	400	160.432	227	253	2493.27
+suite-6-vulcand-http-keepalive	1	15000	0	500	185.043	259	290	2702.08
+suite-6-vulcand-http-keepalive	1	30000	0	1000	537.232	378	444	1861.39

@@ -1,0 +1,15 @@
+label	keepalive	total_reqs	failed_reqs	conc	mean	p95	p98	rqs
+suite-3-hipache-nginx-keepalive	1	300	0	10	29.276	56	89	341.58
+suite-3-hipache-nginx-keepalive	1	600	0	20	65.846	124	166	303.74
+suite-3-hipache-nginx-keepalive	1	1200	0	40	124.009	271	347	322.56
+suite-3-hipache-nginx-keepalive	1	1800	0	60	185.269	347	381	323.85
+suite-3-hipache-nginx-keepalive	1	2400	0	80	243.418	458	537	328.65
+suite-3-hipache-nginx-keepalive	1	3000	0	100	297.000	577	649	336.70
+suite-3-hipache-nginx-keepalive	1	4500	0	150	438.428	862	995	342.13
+suite-3-hipache-nginx-keepalive	1	6000	0	200	571.424	942	1020	350.00
+suite-3-hipache-nginx-keepalive	1	7500	0	250	701.141	1218	1336	356.56
+suite-3-hipache-nginx-keepalive	1	9000	1890	300	619.467	2089	2719	484.29
+suite-3-hipache-nginx-keepalive	1	10500	1438	350	493.596	1968	2250	709.08
+suite-3-hipache-nginx-keepalive	1	12000	1218	400	410.663	2013	2353	974.03
+suite-3-hipache-nginx-keepalive	1	13500	1980	450	618.531	2269	2619	727.53
+suite-3-hipache-nginx-keepalive	1	15000	2470	500	766.785	2536	3495	652.07

@@ -1,0 +1,15 @@
+label	keepalive	total_reqs	failed_reqs	conc	mean	p95	p98	rqs
+suite-4-vulcand-ssl-keepalive	1	300	0	10	6.104	5	125	1638.16
+suite-4-vulcand-ssl-keepalive	1	600	0	20	12.671	9	254	1578.46
+suite-4-vulcand-ssl-keepalive	1	1200	0	40	34.211	23	654	1169.22
+suite-4-vulcand-ssl-keepalive	1	1800	0	60	40.755	27	761	1472.19
+suite-4-vulcand-ssl-keepalive	1	2400	0	80	57.910	41	1034	1381.45
+suite-4-vulcand-ssl-keepalive	1	3000	0	100	75.149	55	1342	1330.68
+suite-4-vulcand-ssl-keepalive	1	4500	0	150	119.154	89	2050	1258.88
+suite-4-vulcand-ssl-keepalive	1	6000	0	200	180.058	125	3153	1110.75
+suite-4-vulcand-ssl-keepalive	1	7500	0	250	206.498	149	3317	1210.67
+suite-4-vulcand-ssl-keepalive	1	9000	0	300	243.139	483	3697	1233.86
+suite-4-vulcand-ssl-keepalive	1	10500	0	350	302.030	915	3306	1158.82
+suite-4-vulcand-ssl-keepalive	1	12000	0	400	330.394	248	5374	1210.67
+suite-4-vulcand-ssl-keepalive	1	13500	0	450	371.620	932	5602	1210.91
+suite-4-vulcand-ssl-keepalive	1	15000	0	500	401.202	281	6800	1246.26
